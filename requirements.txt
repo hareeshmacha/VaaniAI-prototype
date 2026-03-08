@@ -1,0 +1,12 @@
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+soundfile
+imbalanced-learn
+jupyter
+ipykernel
